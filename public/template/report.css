@@ -1,0 +1,61 @@
+.logo{
+  width: 160px;
+}
+.report-address{
+  line-height: 4px;
+  font-size: 12px;
+  margin-top: 5px;
+}
+.report-address-two{
+  line-height: 4px;
+  font-size: 12px;
+}
+.report-type{
+  line-height: 38px;
+  font-size: 14px;
+  font-weight: 700;
+}
+.report-date,
+.report-period{
+  line-height: 10px;
+  font-size: 12px;
+}
+table{
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 40px;
+  text-align: left;
+}
+tr{
+  font-size: 12px;
+}
+.table-header{
+  font-size: 12px;
+  font-weight: 400;
+  color: #fff;
+  padding: 8px 10px;
+  border: 1px solid #000;
+  background-color: #000;
+}
+.main-td{
+  font-size: 12px;
+  font-weight: 400;
+  padding: 8px 10px;
+  border: 1px solid #000;
+}
+.empty-td{
+  padding: 8px 0;
+}
+.sales-td{
+  font-size: 12px;
+  border: 1px solid #000;
+  border-right: none;
+  padding: 8px 10px;
+}
+.total-sales-td{
+  font-size: 12px;
+  padding: 8px 10px;
+  text-align: right;
+  color: #fff;
+  background-color: #000;
+}

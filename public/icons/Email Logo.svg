@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="186" height="40" viewBox="0 0 186 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_67" data-name="Rectangle 67" width="69" height="40"/>
+    </clipPath>
+  </defs>
+  <g id="Email_Logo" data-name="Email Logo" transform="translate(-4638 162)">
+    <g id="logo" transform="translate(4638 -162)" clip-path="url(#clip-path)">
+      <path id="Path_1" data-name="Path 1" d="M202.676,360.543c-1.834,4.863.138,11.255,4.608,13.963s4.608-2.169,5.559-2.169-.271,4.884,1.356,5.831,3.39-4.2,4.884-3.119-.407,4.339,1.085,4.884c1.28.466,11.635-14.348,17.458-18.64a1.7,1.7,0,0,0-.085-2.815,18.265,18.265,0,0,0-4.084-2.138c-1.492-.271-11.254,14.238-11.8,16.136s1.492-5.559.138-5.424-5.559,6.1-5.559,6.1,10.712-19.254,8.542-19.39S205.988,351.765,202.676,360.543Z" transform="translate(-200.393 -350.407)" fill="#ff6452"/>
+      <path id="Path_2" data-name="Path 2" d="M235.891,381.938s11.779-15.516,15.469-16.463c1.051-.269,12.422,3.661,15.942,4.873,4.4,1.513,3.835,7.121,4.92,7.664s.562-5.872,1.513-5.872,5.065,3.27,4.339,10.305c-.281,2.731-4.242,8.2-9.492,7.594-2.025-.233.678-10.983-.814-11.254s-2.235,11.113-3.587,11.005c-4.825-.378-6.312-7.211-9.295-7.482S235.891,381.938,235.891,381.938Z" transform="translate(-210.975 -354.139)" fill="#1d1d1d"/>
+    </g>
+    <text id="Zapatos" transform="translate(4723 -133)" fill="#ff6452" font-size="24" font-family="Poppins-SemiBold, Poppins" font-weight="600"><tspan x="0" y="0">Zapatos</tspan></text>
+  </g>
+</svg>

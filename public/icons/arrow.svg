@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <g id="arrow" transform="translate(-366 -744)">
+    <circle id="Ellipse_1" data-name="Ellipse 1" cx="15" cy="15" r="15" transform="translate(366 744)" fill="#fff"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(-100.502 -29.002)">
+      <g id="arrow-right_linear" data-name="arrow-right/linear" transform="translate(473 780)">
+        <g id="vuesax_linear_arrow-right" data-name="vuesax/linear/arrow-right">
+          <g id="arrow-right">
+            <path id="Vector" d="M0,0,4.3,4.3,0,8.6" transform="translate(10.224 4.202)" fill="none" stroke="#ff6452" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+            <path id="Vector-2" data-name="Vector" d="M0,0H11.925" transform="translate(2.48 8.502)" fill="none" stroke="#ff6452" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5"/>
+            <path id="Vector-3" data-name="Vector" d="M0,0H17V17H0Z" transform="translate(17.005 17.005) rotate(180)" fill="none" opacity="0"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
