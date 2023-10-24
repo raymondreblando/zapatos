@@ -76,6 +76,29 @@ window.addEventListener('DOMContentLoaded', () => {
     const selectedColor = document.querySelector('.view-product__colors--btn.active');
     colorContainer.addValue(selectedColor.dataset.value.trim(), 0);
   }
+
+  if (isExist('.header__signin') && innerWidth <= 576) {
+    const headerSigin = document.querySelector('.header__signin');
+    const parent = headerSigin.parentElement;
+    parent.remove();
+  }
+})
+
+window.addEventListener('resize', () => {
+  setTimeout(() => {
+    if (!isExist('.header__signin') && innerWidth >= 768) {
+      const headerMenuMobile = document.querySelector('.header__menu--mobile');
+      const signInLink = document.createElement('li');
+      const a = document.createElement('a');
+      a.setAttribute('src', `<?= SYSTEM_URL . 'signin' ?>`)
+      a.className = 'header__signin';
+      a.textContent = 'Sign In';
+      signInLink.appendChild(a);
+  
+      const secondItem = headerMenuMobile.children[1];
+      headerMenuMobile.insertBefore(signInLink, secondItem.nextSibling);
+    }
+  }, 2500);
 })
 
 addEvent('body', 'click', () => {

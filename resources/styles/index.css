@@ -720,7 +720,7 @@ header.sticky{
 }
 
 .product__heading h3{
-  font-size: clamp(28px,10vw,45px);
+  font-size: clamp(24px,10vw,45px);
   font-weight: 600;
 }
 
@@ -877,6 +877,7 @@ header.sticky{
 }
 
 .product-wrapper__searchbar input{
+  width: 100%;
   font-size: 13px;
 
   background-color: transparent;
@@ -1709,9 +1710,9 @@ header.sticky{
 }
 
 .service__content h3{
-  font-size: clamp(28px,10vw,45px);
+  font-size: clamp(24px,10vw,45px);
   font-weight: 600;
-  line-height: clamp(28px,10vw,45px);
+  line-height: clamp(24px,10vw,45px);
 
   margin-bottom: 32px;
 }
@@ -1872,9 +1873,9 @@ header.sticky{
 }
 
 .exclusive-offer__content h3{
-  font-size: clamp(28px,10vw,45px);
+  font-size: clamp(24px,10vw,45px);
   font-weight: 600;
-  line-height: clamp(28px,10vw,45px);
+  line-height: clamp(24px,10vw,45px);
 
   margin-bottom: 32px;
 }
@@ -1945,9 +1946,9 @@ header.sticky{
 }
 
 .testimonials__heading{
-  font-size: clamp(28px,10vw,45px);
+  font-size: clamp(24px,10vw,45px);
   font-weight: 600;
-  line-height: clamp(28px,10vw,45px);
+  line-height: clamp(24px,10vw,45px);
 
   margin-bottom: 32px;
 }
@@ -2088,9 +2089,9 @@ header.sticky{
 }
 
 .newsletter h3{
-  font-size: clamp(28px,10vw,45px);
+  font-size: clamp(24px,10vw,45px);
   font-weight: 600;
-  line-height: clamp(28px,10vw,45px);
+  line-height: clamp(24px,10vw,45px);
 }
 
 .newsletter h3 span{
@@ -3105,6 +3106,10 @@ footer{
   padding: 48px 32px;
 }
 
+.account__form-wrapper{
+  width: 100%;
+}
+
 .account__home-link{
   font-size: 24px;
   font-weight: 500;
@@ -3252,6 +3257,7 @@ footer{
   transition: all ease 200ms;
   margin: 0 auto;
   cursor: pointer;
+  overflow: hidden;
 }
 
 .account__google--btn{
@@ -3352,6 +3358,7 @@ footer{
 }
 
 .account__form-group input{
+  width: 100%;
   font-size: 11px;
 
   border: none;
@@ -5549,6 +5556,11 @@ table .table__summary:first-child{
     display: none;
   }
 
+  .header__signin--mobile{
+    display: block;
+    padding-left: 22px;
+  }
+
   .hero__overlay{
     background-position: 170px;
   }
@@ -5593,7 +5605,8 @@ table .table__summary:first-child{
     justify-content: space-between;
   }
 
-  .view-product__button-wrapper button{
+  .view-product__button-wrapper button,
+  .view-product__button-wrapper a{
     width: 100%;
   }
 

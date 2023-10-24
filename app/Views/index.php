@@ -53,18 +53,18 @@
         <div class="hero__overlay"></div>
         
         <div class="hero__shoe">
-          <img src="<?= SYSTEM_URL . 'public' ?>/images/shoe-10.png" alt="shoe" class="hero__shoe--image">
+          <img src="<?= SYSTEM_URL . 'public' ?>/images/shoe-10.webp" alt="shoe" class="hero__shoe--image">
         </div>
 
         <div class="hero__card--container">
           <div class="hero__card">
-            <img src="<?= SYSTEM_URL . 'public' ?>/images/shoe-2.png" alt="shoe">
+            <img src="<?= SYSTEM_URL . 'public' ?>/images/shoe-2.webp" alt="shoe">
           </div>
           <div class="hero__card active">
-            <img src="<?= SYSTEM_URL . 'public' ?>/images/shoe-10.png" alt="shoe">
+            <img src="<?= SYSTEM_URL . 'public' ?>/images/shoe-10.webp" alt="shoe">
           </div>
           <div class="hero__card">
-            <img src="<?= SYSTEM_URL . 'public' ?>/images/shoe-3.png" alt="shoe">
+            <img src="<?= SYSTEM_URL . 'public' ?>/images/shoe-3.webp" alt="shoe">
           </div>
         </div>
       </div>
@@ -135,7 +135,7 @@
           </a>
         </div>
         <div class="service__image">
-          <img src="<?= SYSTEM_URL . 'public' ?>/images/service-image.png" alt="service image">
+          <img src="<?= SYSTEM_URL . 'public' ?>/images/service-image.webp" alt="service image">
         </div>
       </div>
 
@@ -175,16 +175,16 @@
       <div class="exclusive-offer__wrapper">
         <div class="exclusive-offer__grid">
           <div class="exclusive-offer__card">
-            <img src="<?= SYSTEM_URL . 'public' ?>/images/shoe-8.png" alt="shoe">
+            <img src="<?= SYSTEM_URL . 'public' ?>/images/shoe-8.webp" alt="shoe">
           </div>
           <div class="exclusive-offer__card">
-            <img src="<?= SYSTEM_URL . 'public' ?>/images/shoe-9.png" alt="shoe">
+            <img src="<?= SYSTEM_URL . 'public' ?>/images/shoe-9.webp" alt="shoe">
           </div>
           <div class="exclusive-offer__card">
-            <img src="<?= SYSTEM_URL . 'public' ?>/images/shoe-10.png" alt="shoe">
+            <img src="<?= SYSTEM_URL . 'public' ?>/images/shoe-10.webp" alt="shoe">
           </div>
           <div class="exclusive-offer__card">
-            <img src="<?= SYSTEM_URL . 'public' ?>/images/shoe-11.png" alt="shoe">
+            <img src="<?= SYSTEM_URL . 'public' ?>/images/shoe-11.webp" alt="shoe">
           </div>
 
           <div class="exclusive-offer__badge">

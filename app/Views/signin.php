@@ -110,7 +110,7 @@
     </div>
 
     <div class="account__image">
-      <img src="<?= SYSTEM_URL . 'public' ?>/images/shoe-10.png" alt="shoe">
+      <img src="<?= SYSTEM_URL . 'public' ?>/images/shoe-10.webp" alt="shoe">
     </div>
   </main>
 
